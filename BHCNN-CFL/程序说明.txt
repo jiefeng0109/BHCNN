@@ -1,0 +1,7 @@
+在data文件夹下放入对应数据
+
+在processing_library文件里函数load_data中，调用一下get_prefile文件里的Get_prefile类
+
+运行run文件，程序12-13行是参数设置
+
+plot下是单独的画图程序
